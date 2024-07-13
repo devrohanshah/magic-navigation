@@ -31,4 +31,4 @@ css/style.css: CSS file for styling the navigation menu.
 js/script.js: JavaScript file for adding interactivity to the navigation menu.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE] file for more details.
