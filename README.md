@@ -1,20 +1,25 @@
-Magic Navigation
+## Magic Navigation
+
 Magic Navigation is a responsive and dynamic navigation menu built using HTML, CSS, and JavaScript. The menu features interactive icons and smooth animations, providing an intuitive user experience.
 
-Features
-Responsive Design: Adapts to various screen sizes and devices.
-Interactive Icons: Utilizes Ionicons for modern and stylish icons.
-Smooth Animations: Includes subtle animations for a seamless experience.
-Dynamic Indicator: Highlights the active menu item with a moving indicator.
-Installation
-Clone the repository:
-sh
-Copy code
-git clone https://github.com/yourusername/magic-navigation.git
+### Features
+
+- **Responsive Design**: Adapts to various screen sizes and devices.
+- **Interactive Icons**: Utilizes [Ionicons](https://ionicons.com/) for modern and stylish icons.
+- **Smooth Animations**: Includes subtle animations for a seamless experience.
+- **Dynamic Indicator**: Highlights the active menu item with a moving indicator.
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/magic-navigation.git
+   ```
+
 Navigate to the project directory:
-sh
-Copy code
+```sh
 cd magic-navigation
+```
 Open index.html in your preferred web browser.
 Usage
 Customize the navigation items by modifying the HTML structure in the index.html file. You can change the icons by updating the ion-icon elements and adjust the text labels accordingly.
