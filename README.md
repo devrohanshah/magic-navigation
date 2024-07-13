@@ -21,12 +21,14 @@ Navigate to the project directory:
 cd magic-navigation
 ```
 Open index.html in your preferred web browser.
-Usage
+
+## Usage
 Customize the navigation items by modifying the HTML structure in the index.html file. You can change the icons by updating the ion-icon elements and adjust the text labels accordingly.
 
-File Structure
+## File Structure:
 index.html: Main HTML file containing the navigation structure.
 css/style.css: CSS file for styling the navigation menu.
 js/script.js: JavaScript file for adding interactivity to the navigation menu.
-License
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
